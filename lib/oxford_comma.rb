@@ -6,7 +6,8 @@ def oxford_comma(array)
   elsif array.length == 3
       array.each do |fruit|
       "#{fruit},"
-    end
+      end
+      array.join
     end
 end
 
