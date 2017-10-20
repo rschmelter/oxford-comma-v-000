@@ -7,6 +7,7 @@ def oxford_comma(array)
     three_words = array[1].replace " #{array[1]}, and "
     array.join(",")
   end
-    three_words.split[1].replace "#{array[1], and }"
+    three_words.split
+    three_words[1].replace "#{array[1], and }"
     three_words.join
 end
