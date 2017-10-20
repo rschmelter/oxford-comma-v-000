@@ -7,7 +7,7 @@ def oxford_comma(array)
     three_words = array.join(", ")
     three_words.split
     three_words[1] += "and"
-    three_words.join
+    
   end
 
 end
