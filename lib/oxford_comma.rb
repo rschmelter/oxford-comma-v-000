@@ -8,4 +8,5 @@ def oxford_comma(array)
     array.join(",")
   end
     three_words.split[1].replace "#{array[1], and }"
+    three_words.join
 end
