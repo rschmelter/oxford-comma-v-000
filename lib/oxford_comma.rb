@@ -13,6 +13,6 @@ end
   # array.each do |fruit|
   #   "#{fruit},"
   # end
-  # 
+  #
   # array[1] += " and"
   # array.join(", ")
